@@ -1,4 +1,4 @@
 <?php
 
-$data = '{"articleid":"130933","userid":"1070623","Infversion":"1.0","Key":"0nVV4xX+YudkJ6d69OWQFhbY7O12zNFABTU/rDQtu7TUUmgyd6pl6Q==","Method":"ArticleValidReadReward","UID":"1566553807822","appv":"3.43","country":"Indonesia","i18n":"id_ID","sourceOrigin":"GooglePlay","systemtype":"2"}';
+$data = '{"articleid":"539196","userid":"3020499","Version":"3.59","Key":"erNj8BjWdyHIGFYFeDa5wG7pzeorVpjTD73fhsALMXDmCHEH13/njw==","Method":"ArticleValidReadReward","UID":"60137852334","appv":"3.59","country":"Indonesia","lang":"id_ID","sourceOrigin":"https://h5.cashzine.net/User_Module-H5/#/apply?","systemtype":"1"}';
 
